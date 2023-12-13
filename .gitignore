@@ -1,0 +1,8 @@
+.cache/
+venv/
+.idea/
+rosritual-online.ru_error.log
+rosritual-online.ru_access.log
+debug.log
+gunicorn_access.log
+gunicorn_error.log
